@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .account-info {
+ 
+    padding: 20px;
+    background-color: #f5f5f5;
+
+  }
+  
+  .account-info label {
+    display: block;
+    font-weight: bold;
+  }
+  
+
+  .account-info button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
